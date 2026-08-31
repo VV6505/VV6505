@@ -30,7 +30,6 @@ const Vu = {
 
     currentlyLearning: [
         "ASP.NET Core",
-        "Node.js basics",
         "SQL & Databases",
         "Git workflow"
     ],
@@ -44,13 +43,13 @@ const Vu = {
 ## 🛠️ Languages - Frameworks - Tools
 
 ### 💻 Programming Languages
-<p><img src="https://skillicons.dev/icons?i=java,python,cs,cpp,js,html,css" /></p>
+<p><img src="https://skillicons.dev/icons?i=java,cs,cpp,js,html,css" /></p>
 
 ### 🌐 Web & Backend
-<p><img src="https://skillicons.dev/icons?i=dotnet,nodejs,react" /></p>
+<p><img src="https://skillicons.dev/icons?i=dotnet" /></p>
 
 ### 🗄️ Database
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /></p>
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,sqlserver" /></p>
 
 ### 🔧 Tools
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" /></p>
@@ -60,14 +59,8 @@ const Vu = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VV6505&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VV6505&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=VV6505&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-eight-eosin.vercel.app/api?username=VV6505&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-eight-eosin.vercel.app/api/top-langs/?username=VV6505&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -84,17 +77,9 @@ const Vu = {
 ## 📫 Connect With Me
 
 <div align="center">
-<a href="mailto:phungvu065005@gmail.com">
+<a href="mailto:phungvu65005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
 
 ---
-
-<div align="center">
-
-💡 *"Keep learning, keep building, keep improving."*
-
-⭐ Thanks for visiting my profile!
-
-</div>
