@@ -49,7 +49,10 @@ const Vu = {
 <p><img src="https://skillicons.dev/icons?i=dotnet" /></p>
 
 ### 🗄️ Database
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,sqlserver" /></p>
+<p>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=firebase,mongodb" />
+</p>
 
 ### 🔧 Tools
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" /></p>
